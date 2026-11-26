@@ -1,0 +1,16 @@
+AVOTS
+
+Sākotnējais datu avots:
+https://github.com/BigTimeStats/beach-volleyball
+
+CSV fails:
+https://raw.githubusercontent.com/BigTimeStats/beach-volleyball/master/data/full_archive/full_archive.csv
+
+Iegūšanas datums: 2026. gada 26. novembris.
+
+Izlases veidošana: no oriģinālā CSV faila tika reproducējami nejauši izvēlētas 400 reālu
+spēļu rindas, izmantojot random_state=42 ekvivalentu algoritmu (Python random.Random(42)
+un sample). Oriģinālie kolonnu nosaukumi un vērtības tika saglabāti. Dati netika tīrīti,
+un trūkstošās vērtības netika labotas vai aizstātas.
+
+Izveidotais fails: dati/volleyball.csv.
