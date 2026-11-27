@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 
 dati = pd.read_csv("tirs.csv")
@@ -35,3 +36,16 @@ if apmacibas_datumi.max() == testa_datumi.min():
     print("Pēdējais apmācības datums sakrīt ar pirmo testa datumu.")
 else:
     print("Pēdējais apmācības datums nesakrīt ar pirmo testa datumu.")
+
+modelis = RandomForestClassifier(
+    n_estimators=100,
+    max_depth=5,
+    random_state=42
+)
+modelis.fit(X_train, y_train)
+prognozes = modelis.predict(X_test)
+
+print("Modelis veiksmīgi apmācīts.")
+print("Prognožu skaits:", len(prognozes))
+print("Pirmie desmit prognozētie uzvarētāji:")
+print(prognozes[:10])
