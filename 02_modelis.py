@@ -66,5 +66,12 @@ precizitates_starpiba = (precizitate - bazes_precizitate) * 100
 
 print("Visbiežākā apmācības izlases klase:", bazes_klase)
 print("Bāzes līnijas precizitāte:", f"{bazes_precizitate * 100:.2f}%")
-print("Modeļa precizitāte:", f"{precizitate * 100:.2f}%")
 print("Precizitātes starpība procentpunktos:", f"{precizitates_starpiba:.2f}")
+
+pazimju_svarigums = pd.Series(modelis.feature_importances_, index=X.columns)
+pazimju_svarigums = pazimju_svarigums.sort_values(ascending=False)
+
+print("Pazīmju svarīgums:")
+print(pazimju_svarigums)
+print("Divas svarīgākās pazīmes:")
+print(pazimju_svarigums.head(2))
