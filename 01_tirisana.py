@@ -17,40 +17,19 @@ dati = dati.dropna()
 vecuma_stabi = ["w_p1_age", "w_p2_age", "l_p1_age", "l_p2_age"]
 auguma_stabi = ["w_p1_hgt", "w_p2_hgt", "l_p1_hgt", "l_p2_hgt"]
 
-print("Minimālais vecums:", dati[vecuma_stabi].min().min())
-print("Maksimālais vecums:", dati[vecuma_stabi].max().max())
-print("Minimālais augums collās:", dati[auguma_stabi].min().min())
-print("Maksimālais augums collās:", dati[auguma_stabi].max().max())
-
 vecums_nederigs = (dati[vecuma_stabi] <= 0).any(axis=1)
 vecuma_dzesto_rindu_skaits = vecums_nederigs.sum()
 dati = dati[~vecums_nederigs]
-
 augums_nederigs = (dati[auguma_stabi] <= 0).any(axis=1)
 auguma_dzesto_rindu_skaits = augums_nederigs.sum()
 dati = dati[~augums_nederigs]
-
 dati["date"] = pd.to_datetime(dati["date"], errors="coerce")
 datums_nederigs = dati["date"].isna()
 datuma_dzesto_rindu_skaits = datums_nederigs.sum()
 dati = dati[~datums_nederigs]
-
 dzimums_nederigs = ~dati["gender"].isin(["M", "W"])
 dzimuma_dzesto_rindu_skaits = dzimums_nederigs.sum()
 dati = dati[~dzimums_nederigs]
-
-atlikušo_rindu_skaits = len(dati)
-dzesto_rindu_skaits = sakuma_rindu_skaits - atlikušo_rindu_skaits
-
-print("Sākotnējo rindu skaits:", sakuma_rindu_skaits)
-print("Dzēsto rindu skaits trūkstošu vērtību dēļ:", trūkstošo_dzesto_rindu_skaits)
-print("Dzēsto rindu skaits nederīga vecuma dēļ:", vecuma_dzesto_rindu_skaits)
-print("Dzēsto rindu skaits nederīga auguma dēļ:", auguma_dzesto_rindu_skaits)
-print("Dzēsto rindu skaits nederīga datuma dēļ:", datuma_dzesto_rindu_skaits)
-print("Dzēsto rindu skaits nederīga dzimuma dēļ:", dzimuma_dzesto_rindu_skaits)
-print("Kopējais dzēsto rindu skaits:", dzesto_rindu_skaits)
-print("Atlikušo rindu skaits:", atlikušo_rindu_skaits)
-print("Atlikušo trūkstošo vērtību skaits:", dati.isna().sum().sum())
 
 dati["uzvaretaju_komanda"] = dati["w_player1"] + " / " + dati["w_player2"]
 dati["zaudetaju_komanda"] = dati["l_player1"] + " / " + dati["l_player2"]
@@ -87,33 +66,32 @@ dati["team_b_avg_height"] = dati["zaudetaju_vid_hgt"].where(
     komanda_a_ir_uzvaretaja, dati["uzvaretaju_vid_hgt"]
 )
 
-pazimju_parbaude = (
-    (dati["team_a_avg_age"] == dati["uzvaretaju_vid_age"].where(
-        komanda_a_ir_uzvaretaja, dati["zaudetaju_vid_age"]
-    ))
-    & (dati["team_b_avg_age"] == dati["zaudetaju_vid_age"].where(
-        komanda_a_ir_uzvaretaja, dati["uzvaretaju_vid_age"]
-    ))
-    & (dati["team_a_avg_height"] == dati["uzvaretaju_vid_hgt"].where(
-        komanda_a_ir_uzvaretaja, dati["zaudetaju_vid_hgt"]
-    ))
-    & (dati["team_b_avg_height"] == dati["zaudetaju_vid_hgt"].where(
-        komanda_a_ir_uzvaretaja, dati["uzvaretaju_vid_hgt"]
-    ))
-    & (dati["winner"] == komanda_a_ir_uzvaretaja.map({True: "A", False: "B"}))
-)
-print("Pareizi pārnesto vecuma, auguma un rezultāta rindu skaits:", pazimju_parbaude.sum())
-print("Nepareizi pārnesto rindu skaits:", (~pazimju_parbaude).sum())
-
 rezultats = dati[[
     "date", "gender", "team_a", "team_b",
     "team_a_avg_age", "team_b_avg_age", "team_a_avg_height",
     "team_b_avg_height", "winner"
 ]]
 
-print("Vienādu komandu pāru dzēsto rindu skaits:", vienadu_komandu_dzesto_rindu_skaits)
-print("Pirmās piecas gala datu rindas:")
-print(rezultats.head())
-print("Gala rindu skaits:", len(rezultats))
+rezultats.to_csv("tirs.csv", index=False)
+saglabatie_dati = pd.read_csv("tirs.csv")
+
+atlikušo_rindu_skaits = len(rezultats)
+dzesto_rindu_skaits = sakuma_rindu_skaits - atlikušo_rindu_skaits
+
+print("Sākotnējo rindu skaits:", sakuma_rindu_skaits)
+print("Dzēsto rindu skaits trūkstošu vērtību dēļ:", trūkstošo_dzesto_rindu_skaits)
+print("Dzēsto rindu skaits nederīga vecuma dēļ:", vecuma_dzesto_rindu_skaits)
+print("Dzēsto rindu skaits nederīga auguma dēļ:", auguma_dzesto_rindu_skaits)
+print("Dzēsto rindu skaits nederīga datuma dēļ:", datuma_dzesto_rindu_skaits)
+print("Dzēsto rindu skaits nederīga dzimuma dēļ:", dzimuma_dzesto_rindu_skaits)
+print("Dzēsto rindu skaits vienādu komandu dēļ:", vienadu_komandu_dzesto_rindu_skaits)
+print("Kopējais dzēsto rindu skaits:", dzesto_rindu_skaits)
+print("Atlikušo rindu skaits:", atlikušo_rindu_skaits)
+print("Atlikušo trūkstošo vērtību skaits:", rezultats.isna().sum().sum())
 print("Uzvaru sadalījums:")
 print(rezultats["winner"].value_counts().sort_index())
+print("Saglabātā CSV rindu skaits:", len(saglabatie_dati))
+print("Saglabātā CSV kolonnu skaits:", len(saglabatie_dati.columns))
+print("Saglabātā CSV trūkstošo vērtību skaits:", saglabatie_dati.isna().sum().sum())
+print("Pirmās piecas saglabātā CSV rindas:")
+print(saglabatie_dati.head().to_string(index=False))

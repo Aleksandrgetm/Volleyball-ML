@@ -1,0 +1,312 @@
+date,gender,team_a,team_b,team_a_avg_age,team_b_avg_age,team_a_avg_height,team_b_avg_height,winner
+2009-05-21,M,Adam Jewell / Albert Hannemann,Duncan Budinger / Mark Van Zwieten,36.477754950000005,23.40451745,76.0,76.5,B
+2004-09-02,M,Dax Holdren / Stein Metzger,Sean Scott / Todd Rogers,31.8932238,31.051334699999998,75.0,75.5,B
+2006-08-30,W,Dalixia Fernandez Grasset / Tamara Larrea Peraza,Renata Ribeiro / Talita Antunes,30.7597536,24.365503099999998,70.5,70.0,A
+2004-05-19,W,Helke Claasen / Martina Stoof,Judith Augoustides / Mireya Kaup,28.51060915,29.56605065,72.0,72.5,A
+2013-08-30,M,John Hyden / Tri Bourne,Kevin McColloch / Steve Grotowski,32.5448323,30.3080082,77.0,77.5,A
+2008-07-24,M,Anthony Medel / Fred Souza,Nick Lucena / Sean Scott,33.2607803,31.9534565,77.0,75.0,B
+2019-01-02,W,Brittany Howard / Kelly Reeves,Michaela Kubickova / Michala Kvapilova,25.642710450000003,26.8117728,73.5,70.0,A
+2007-08-09,W,Claire D'Amore / Jenelle Koester,Paula Roca / Sarah Straton,27.45379875,36.4517454,70.5,72.5,B
+2019-11-13,W,Alexandra Jupiter / Aline Chamereau,Becchara Palmer / Nicole Laird,26.681724850000002,29.0677618,73.0,73.5,B
+2014-06-25,M,Alex Ranghieri / Andrea Tomatis,Reinder Nummerdor / Steven van de Velde,31.615331949999998,28.8336756,78.0,77.0,B
+2005-04-29,M,Adam Johnson / Brian Corso,David Smith / John Moran,34.69815195,31.09924705,76.5,76.0,A
+2008-05-01,M,Jerry Stevens / Reuben Danley,Jonathan Acosta / Leonardo Moraes,28.22861055,27.3524983,76.0,75.0,B
+2003-09-18,M,Casey Jennings / Matt Fuerbringer,Markus Egger / Sascha Heyer,28.91307325,29.86173855,77.5,77.5,B
+2004-07-07,M,Francisco Alvarez / Juan Rossell,Jason Lochhead / Kirk Pitman,34.880219,21.44284735,73.0,73.0,A
+2021-05-25,M,Oleg Stoyanovskiy / Viacheslav Krasilnikov,Trevor Crabb / Tri Bourne,27.36755645,31.8097194,79.0,76.5,A
+2004-10-16,W,Annett Davis / Jenny Johnson Jordan,Jennifer Kessy / Jennifer Meredith,31.211499,29.58110885,70.5,71.5,A
+2019-04-30,M,Aleksandrs Solovejs / Rihards Finsters,Marco Krattiger / Nico Beeler,28.1204654,25.485284049999997,77.5,77.0,B
+2022-08-10,W,Julia Sude / Karla Borger,Taravadee Naraphornrapat / Worapeerachayakorn Kongphopsarutawadee,34.325804250000004,25.8658453,72.0,71.5,A
+2019-01-02,M,Alexander Brouwer / Robert Meeuwsen,Clemens Wickler / Julius Thole,29.97399045,22.65571525,79.5,78.0,B
+2014-06-11,W,Evgeniya Ukolova / Maria Prokopeva,Jamie Broder / Kristina May,26.443531800000002,28.17522245,72.0,71.0,A
+2003-10-14,M,Emanuel Rego / Ricardo Santos,Joao Brenha / Miguel Maia,29.633128,32.95824775,77.0,73.5,A
+2015-09-02,M,Alison Cerutti / Bruno Oscar Schmidt,Ian Mehamed / Nicolas Capogrosso,29.321013,23.30184805,76.5,76.5,A
+2007-05-01,M,Bjorn Maaseide / Iver Horrem,Dmitri Barsouk / Igor Kolodinsky,34.7378508,25.5468857,76.5,76.5,B
+2003-04-25,W,Helen Reale / Nikki Audette,Marsha Miller / Pat Keller,35.49623545,34.44763865,69.0,71.5,B
+2014-07-08,W,Ilka Semmler / Katrin Holtwick,Marta Menegatti / Viktoria Orsi Toth,29.5359343,23.89596165,70.5,72.0,A
+2009-08-25,M,Kristjan Kais / Rivo Vesik,Reinder Nummerdor / Richard Schuil,31.2950034,34.635181349999996,76.0,78.0,B
+2007-05-01,M,Bram Ronnes / Emiel Boersma,Franco Neto / Pedro Cunha,27.56605065,32.17932925,77.0,75.0,B
+2016-04-14,M,Mark Burik / Russ Marchewka,Taylor Crabb / Trevor Crabb,32.09856265,25.397672800000002,76.5,74.0,A
+2003-08-13,W,Anouk Boileau / Julie Morin,Ethel-Julie Arjona / Virginie Kadjo,26.6406571,26.22313485,68.0,69.5,B
+2009-08-03,W,"Andrezza ""Rtvelo"" Martins / Cristine ""Saka"" Santanna",Claudia Lehmann / Julia Sude,31.09514035,22.8733744,69.0,72.0,A
+2008-07-24,M,Canyon Ceman / Casey Patterson,Casey Brewer / Kevin Dake,32.17522245,31.462012299999998,77.5,73.5,A
+2008-04-17,M,AJ Mihalic / Scott Davenport,Jesse Rambis / Mike Bruning,34.27241615,30.329911000000003,74.0,74.0,A
+2012-04-24,M,Benjamin Insfran / Bruno Oscar Schmidt,Evandro Goncalves / Harley Marques,32.788501,29.78644765,75.0,79.5,B
+2010-08-24,W,Eva Tcholakova / Maria Todorova,Merel Mooren / Rebekka Kadijk,30.807665999999998,29.555099249999998,71.5,71.0,B
+2010-05-04,W,Anja Gunther / Geeske Banck,Ying Huang / Yuan Yue,27.96988365,20.2217659,72.5,74.0,A
+2006-06-14,M,Emanuel Rego / Ricardo Santos,Linyin Xu / Penggen Wu,32.29979465,22.16974675,77.0,78.5,A
+2005-08-26,M,Brad Torsone / Pepe Delahoz,Dain Blanton / Kevin Wong,32.22997945,33.34839155,75.5,77.0,B
+2016-04-12,M,Dries Koekelkoren / Tom van Walle,Esteban Grimalt / Marco Grimalt,28.2819986,26.0054757,76.5,76.0,B
+2018-08-09,M,Arthur Mariano / Marcio Gaudie,David Lenc / Patrik Manas,25.04449005,22.84325805,77.0,75.0,A
+2009-09-04,W,Annett Davis / Jenny Johnson Jordan,Brooke Niles / Lisa Fitzgerald,36.0958248,28.234086249999997,70.5,71.0,B
+2011-10-04,M,Jake Gibb / Sean Rosenthal,Pedro Solberg / Rhooney Ferramenta,33.47433265,25.71389455,77.5,74.0,B
+2007-08-01,W,Daniela Gattelli / Lucilla Perrotta,Hella Jurich / Rieke Brink-Abeler,31.9301848,27.11430525,70.5,70.5,A
+2021-10-06,W,Alix Klineman / April Ross,Nadezda Makroguzova / Svetlana Kholomina,35.5318275,24.209445600000002,75.0,71.0,B
+2010-11-02,W,Ana Paula Henkel / Tatiana Minello,Marta Menegatti / Valeria Rosso,39.69609855,24.6187543,69.0,71.5,B
+2002-06-19,M,Jonas Reckermann / Markus Dieckmann,Julien Prosser / Lee Zahner,24.75701575,29.144421649999998,76.5,77.0,B
+2007-04-13,W,Angie Akers / Brooke Niles,Jenelle Koester / Saralyn Smith,28.43668725,29.23066395,70.0,72.5,A
+2005-09-08,M,Casey Jennings / Phil Dalhausser,Matt Fuerbringer / Sean Rosenthal,27.8918549,28.414784400000002,78.0,78.0,B
+2004-06-15,W,Annett Davis / Jenny Johnson Jordan,Elaine Youngs / Holly McPeak,30.8747433,34.70910335,70.5,69.5,B
+2007-07-10,M,Aleksandrs Samoilovs / Martins Plavins,Harley Marques / Pedro Solberg,22.2149213,27.148528399999996,76.0,76.0,B
+2007-06-14,M,Canyon Ceman / Chad Turner,John Mayer / Mike DiPierro,35.0718686,25.757700200000002,77.5,75.5,B
+2004-07-07,M,David Klemperer / Niklas Rademacher,Francisco Alvarez / Juan Rossell,23.193702950000002,34.880219,77.5,73.0,A
+2008-07-18,M,Mike Morrison / Ty Tramblie,Phil Dalhausser / Todd Rogers,28.6324435,31.637234749999998,75.0,77.5,B
+2007-05-01,M,Fabio Luiz Magalhaes / Marcio Araujo,Jorre Kjemperud / Tarjei Skarlund,30.841889100000003,33.57289525,78.0,74.5,A
+2015-10-07,W,Janne Kongshavn / Victoria Kjolberg,Kira Walkenhorst / Laura Ludwig,27.475701550000004,28.30937715,69.5,71.0,B
+2022-05-19,M,Adrian Carambula / Enrico Rossi,Clemens Wickler / Nils Ehlers,31.53319645,27.6714579,74.5,79.0,B
+2011-05-17,M,Marcio Araujo / Ricardo Santos,Martin Spinnangr / Tarjei Skarlund,36.976043849999996,28.279260800000003,77.5,76.5,A
+2011-06-28,M,David Klemperer / Eric Koreng,Matteo Ingrosso / Paolo Ingrosso,30.5653662,23.3730322,75.0,75.0,A
+2010-07-27,M,Andy Ces / Kevin Ces,David Lenc / Robert Kufa,29.0403833,21.336071150000002,76.5,74.5,A
+2003-07-01,W,Efthalia Koutroumanidou / Vasiliki Arvaniti,Marrit Leenstra / Rebekka Kadijk,19.50992475,26.87063655,71.0,69.5,B
+2006-06-27,W,Chen Xue / Xi Zhang,Summer Lochowicz / Tamsin Hinchley,19.27036275,27.27036275,73.5,73.0,A
+2007-05-03,M,Chris Harger / Jesse Webster,Drew Brand / Peter Tourigny,29.232032850000003,39.244353149999995,80.0,75.5,A
+2018-08-03,M,Iztok Novak / Jure Bedra,Jindrich Weiss / Martin Tichy,35.50034225,33.18412045,75.0,74.5,B
+2005-06-21,W,Marrit Leenstra / Sanne Keizer,Sabine Swoboda / Sara Montagnolli,26.02190285,28.3997262,70.5,68.0,A
+2016-04-26,M,Christian Sorum / Morten Kvamsdal,Juan Virgen / Lombardo Ontiveros,23.51129365,30.75564685,76.5,76.0,B
+2012-04-24,W,Ekaterina Birlova / Evgeniya Ukolova,Maria Tsiartsiani / Vasiliki Arvaniti,23.8206708,29.30595485,71.5,71.5,B
+2006-07-19,W,Doris Schwaiger / Stefanie Schwaiger,Emilia Nystrom / Erika Nystrom,20.66666665,22.8473648,70.0,70.0,B
+2003-10-07,W,Kerri Walsh Jennings / Misty May-Treanor,Renata Ribeiro / Shaylyn Bede,25.665982200000002,21.82477755,72.0,67.0,A
+2008-11-05,W,Anja Gunther / Geeske Banck,Becchara Palmer / Tamsin Hinchley,26.477754949999998,24.52019165,72.5,74.0,A
+2006-06-15,M,Albert Hannemann / Kevin Wong,Ben Koski / Jeff Minc,34.93497605,26.060232749999997,77.0,75.5,B
+2004-06-22,W,Gabriele Jobst / Patricia Stragliotto,Judith Augoustides / Mireya Kaup,32.10951405,29.6591376,70.0,72.5,B
+2005-05-20,W,Ashley Ivy Swift / Ella Vakhidova,Manuela Broccolini / Silvia Bottazzi,26.501026699999997,32.822724199999996,71.5,67.5,A
+2008-07-14,W,Lea Schwer / Simone Kuhn,Okka Rau / Stephanie Pohl,27.181382650000003,30.85420945,72.0,72.0,B
+2013-06-18,W,Doris Schwaiger / Stefanie Schwaiger,Ekaterina Birlova / Evgeniya Ukolova,27.58247775,24.9705681,70.0,71.5,A
+2006-06-28,M,Dmitri Barsouk / Roman Arkaev,Linyin Xu / Penggen Wu,29.54414785,22.208076650000002,76.0,78.5,B
+2006-08-24,M,Mike Lambert / Stein Metzger,Nick Lucena / Sean Rooney,33.06365505,25.349760449999998,76.5,77.0,A
+2003-07-15,W,Elaine Youngs / Holly McPeak,Fei Wang / Jia Tian,33.7891855,22.1820671,69.5,71.0,B
+2008-07-01,M,Alexander Horst / Florian Gosch,Harley Marques / Pedro Solberg,26.70225875,28.125941150000003,75.0,76.0,B
+2003-07-23,M,Francisco Alvarez / Juan Rossell,Peter Gartmayer / Robert Nowotny,33.921971299999996,27.4442163,73.0,74.5,A
+2018-02-27,M,Alex Ranghieri / Marco Caminati,Andre Loyola / Evandro Goncalves,28.06297055,25.57152635,76.5,81.0,A
+2013-04-24,W,Chen Xue / Xi Zhang,Ekaterina Birlova / Maria Prokopeva,26.0958248,26.19575635,73.5,71.5,A
+2016-04-04,M,Cherif Younousse / Jefferson Santos Pereira,Daniele Lupo / Paolo Nicolai,23.8466804,26.28747435,74.5,78.5,B
+2014-05-29,M,Billy Kolinske / Jon Mesko,Brett Benfield / Ryan Ragland,32.48733745,35.174538,78.0,75.5,A
+2006-06-20,W,Michaela Eckl / Mireya Kaup,Okka Rau / Stephanie Pohl,29.13073235,28.7871321,70.5,72.0,B
+2013-08-30,W,Ali McColloch / Traci Weamer,Andrea Peterson / Laryssa Mereszczak,26.6146475,31.94934975,72.0,69.5,B
+2005-06-29,M,Alex Ortiz / Javier Bosma,Bjorn Berg / Robert Svensson,32.03422315,31.34428475,75.5,75.5,A
+2018-08-28,M,Adrian Caravano / Arnaud Loiseau,Erlend Henriksveen / Vegard Lokken,31.93702945,23.64818615,75.5,73.5,A
+2006-05-31,M,Eugenio Amore / Riccardo Fenili,Pedro Solberg / Roberto Lopes,32.4668036,29.913757699999998,76.0,74.5,B
+2019-08-22,M,Casey Patterson / Chase Budinger,Daniel Bergerud / Lars Retterholt,35.2936345,28.15331965,78.5,76.5,A
+2014-08-20,M,Evandro Goncalves / Vitor Felipe,Geir Eithun / Iver Horrem,23.7700205,36.20123205,79.5,76.5,A
+2013-06-11,M,Alvaro Filho / Ricardo Santos,Christiaan Varenhorst / Daan Spijkers,30.483230649999996,24.6830938,76.0,78.5,A
+2011-04-26,W,Ingrid Torlen / Kathrine Maaseide,Shauna Mullin / Zara Dampney,33.0581793,25.74811775,70.5,70.0,A
+2013-08-23,M,Evan Engle / Stafford Slick,John Hyden / Tri Bourne,30.05749485,32.5256674,77.5,77.0,B
+2018-03-15,M,Candra Rachmawan / Mohammad Ashfiya,Dirk Boehle / Steven van de Velde,23.54962355,24.41067765,73.5,75.0,B
+2007-08-30,W,Alicia Zamparelli-Flavia / Stacy Loyal,Angela Lewis / Priscilla Piantadosi-Lima,30.45448325,28.5913758,71.5,71.0,B
+2006-03-31,M,Kevin Wong / Scott Wong,Mike DiPierro / Steve Grotowski,30.39698835,24.569473000000002,78.0,78.0,B
+2009-05-01,W,Barbra Fontana / Keao Burdine,Claire D'Amore / Jennifer Snyder,34.9856263,29.90691305,69.5,71.5,B
+2014-06-25,M,Bartosz Losiak / Piotr Kantor,Casey Patterson / Jake Gibb,22.128678999999998,36.2806297,77.0,78.5,B
+2021-02-23,M,Ahmed Tijan / Cherif Samba,Alexey Gusev / Pavel Shustrov,25.793292299999997,20.439425049999997,75.0,74.5,A
+2006-08-10,W,Colleen Smith / Jill Chlebeck,Dagmara Szyszczak / Holly Reisor,26.8350445,39.504449,74.0,71.5,A
+2012-06-06,W,Berta Antequera / Ester Ribera,Laura Bloem / Merel Mooren,30.1560575,26.1423682,69.0,71.5,B
+2012-05-01,M,Anders Lund Hoyer / Bo Soderberg,Garrett May / Rich VanHuizen,31.8220397,28.23956195,77.5,78.0,A
+2016-05-24,W,Heather Bansley / Sarah Pavan,Kinga Kolosinska / Monika Brzostek,29.233401800000003,26.39972625,72.0,69.0,A
+2018-07-09,W,Amanda Dowdy / Irene Pollock,Emily Stockman / Kelley Larsen,28.91854895,28.135523650000003,73.5,73.0,B
+2005-07-26,W,Lea Schwer / Simone Kuhn,Lu Wang / Ying Li,24.21355235,24.264202599999997,72.0,72.5,A
+2003-08-28,M,Adam Roberts / Matt Heath,Rich VanHuizen / Ryan Mariano,28.1122519,27.58110885,75.5,78.0,A
+2009-07-02,M,Brad Vallett / Sean Symanski,Jack Quinn / Yariv Lerner,34.60506505,37.4715948,70.5,74.5,B
+2006-06-27,W,Imara Esteves Ribalta / Milagros Crespo,Merel Mooren / Rebekka Kadijk,27.796030100000003,25.3963039,69.0,71.0,A
+2009-08-25,M,Aleksandrs Samoilovs / Ruslans Sorokins,Pedro Solberg / Ricardo Santos,25.92197125,29.0239562,77.0,77.5,A
+2007-08-01,W,Juliana Felisberta / Larissa Franca,Laura Ludwig / Sara Niedrig,24.662559899999998,22.3709788,69.5,70.5,A
+2015-05-19,W,Daria Rudykh / Olga Motrich,Khanittha Hongpak / Rumpaipruet Numwong,22.602327199999998,20.959616699999998,72.0,68.5,A
+2016-06-16,M,John Mayer / Stafford Slick,Maddison McKibbin / Riley McKibbin,32.73100615,26.67488025,76.5,75.0,A
+2015-10-07,W,Jolien Sinnema / Rimke Braakman,Riikka Lehtonen / Taru Lahti,25.05954825,30.5174538,71.0,71.0,A
+2002-08-08,W,Alicia Zamparelli-Flavia / Nikki Audette,Cary Wendell / Jennifer Kessy,29.3429158,26.68309375,68.0,71.5,B
+2006-06-07,M,Bram Ronnes / Jochem De Gruijter,Fangtian Gao / Shengwei Han,27.8453114,24.0287474,75.5,75.0,A
+2018-03-06,M,Alexander Brouwer / Robert Meeuwsen,Igor Velichko / Oleg Stoyanovskiy,29.14715945,22.017795999999997,79.5,77.5,A
+2008-09-17,W,Angie Akers / Holly McPeak,Katie Jameson / Tracy Jones,35.779603,29.11978095,69.5,66.0,B
+2022-07-22,W,Aurora Davis / Teegan Van Gunst,Jennifer Keddy / Katie Dickens,29.2416153,29.7180014,70.5,73.5,A
+2007-09-26,M,Emanuel Rego / Ricardo Santos,Guilherm Deulofeu / Yannick Salvetti,33.583846699999995,31.2443532,77.0,76.0,A
+2022-06-02,W,Dorina Klinger / Ronja Klinger,Erika Kliokmanaite / Monika Paulikiene,23.50308005,32.56947295,71.5,71.5,B
+2021-07-29,M,Alexander Herrmann / Martin Appelgren,Artur Hajos / Botond Olah,30.4312115,21.430527050000002,76.5,75.5,A
+2002-08-07,W,Anouk Boileau / Julie Morin,Ethel-Julie Arjona / Virginie Kadjo,25.6249144,25.2073922,68.0,69.5,B
+2011-07-25,W,Ekaterina Birlova / Evgeniya Ukolova,Kinga Kolosinska / Monika Brzostek,23.070499650000002,21.56741955,71.5,69.0,B
+2018-08-28,W,Dimitra Manavi / Konstantina Tsopoulou,Emilie Olimstad / Frida Berntsen,23.377138950000003,17.28678985,70.5,69.5,A
+2018-07-17,M,George Wanderley / Thiago Santos Barbosa,Philipp Waller / Robin Seidl,28.7214237,25.64544835,77.0,74.0,B
+2002-05-24,W,Carrie Dodd / Leanne McSorley,Gracie Santana-Baeni / Lia Young,28.651608500000002,30.70362765,70.0,69.0,A
+2021-04-22,M,Aaron Nusbaum / Michael Plantinga,Philipp Waller / Robin Seidl,29.59342915,28.41067765,76.5,74.0,B
+2008-11-05,W,Jie Wang / Man Zuo,Karolina Marciniak / Monika Brzostek,25.6618754,19.95482545,73.0,69.5,A
+2017-07-21,W,Akiko Hasegawa / Azusa Futami,Aline Chamereau / Lezana Placette,28.4106776,20.4914442,70.0,71.5,A
+2004-06-04,W,Anne McArthur / Kristin Schritter,Beth Van Fleet / Suzana Manole,35.155373,26.3764545,69.5,72.5,B
+2011-05-02,M,Iver Horrem / Oivind Hordvik,Jonas Reckermann / Julius Brink,30.12183435,30.3778234,77.5,76.0,B
+2008-05-27,M,Jorre Kjemperud / Tarjei Skarlund,Jose Salema / Mariano Baracetti,34.64613275,35.949349749999996,74.5,75.5,A
+2005-05-17,W,Daniela Gattelli / Lucilla Perrotta,Lu Wang / Ying Li,29.723477099999997,24.072553,70.5,72.5,A
+2006-06-29,W,April Ross / Keao Burdine,Mimi Amaral / Tatiana Minello,23.7563313,32.47227925,73.0,69.0,B
+2005-05-25,W,Ana Paula Henkel / Shaylyn Bede,Juliana Felisberta / Larissa Franca,28.364134149999998,22.47775495,68.5,69.5,A
+2007-06-07,M,Brad Keenan / John Hyden,Matt Fuerbringer / Sean Scott,30.2436687,33.645448349999995,78.5,78.5,A
+2007-08-09,M,Alan Dawber / Richard Krutop,Gabe Burt / Leonardo Moraes,27.975359349999998,28.1765914,74.5,75.5,B
+2017-07-03,M,Aleksandrs Samoilovs / Janis Smedins,Artem Yarzutkin / Oleg Stoyanovskiy,31.08282,20.9431896,76.0,78.0,B
+2007-04-13,M,Dain Blanton / Scott Lane,Dax Holdren / Jeff Nygaard,34.25598905,34.6475017,76.5,77.5,B
+2010-04-29,W,Elaine Youngs / Rachel Scott,Michelle Williams / Suzanne Barnes,37.53730325,29.305954800000002,70.0,71.0,A
+2016-08-06,M,Aleksandrs Samoilovs / Janis Smedins,Nivaldo Diaz / Sergio Gonzalez,30.1765914,24.25051335,76.0,77.5,B
+2006-06-20,W,Eiko Koizumi / Shinako Tanaka,Sabine Swoboda / Sara Montagnolli,31.848049250000003,29.3963039,67.5,68.0,B
+2021-07-14,M,Alexander Herrmann / Martin Appelgren,Fils Habanzintwari / Yves Mutabazi,30.39014375,25.77960305,76.5,75.0,A
+2014-07-09,M,Aleksandrs Solovejs / Martins Plavins,Christian Redmann / Maverick Hatch,26.32991105,29.809719349999998,77.0,76.5,B
+2003-07-16,M,Julien Prosser / Mark Williams,Kevin Wong / Stein Metzger,27.779603,30.7488022,77.5,77.0,B
+2018-08-28,W,Dunja Gerson / Laura Caluori,Emilie Olimstad / Frida Berntsen,23.341546899999997,17.28678985,70.0,69.5,A
+2002-09-03,W,Annette Huygens Tholen / Nicole Sanderson,Okka Rau / Stephanie Pohl,31.54688565,24.9924709,69.5,72.0,B
+2008-06-17,M,Kristjan Kais / Rivo Vesik,Mark Williams / Stein Metzger,30.1067762,32.48459955,76.0,77.0,B
+2013-06-11,M,Christian Redmann / Maverick Hatch,Serguey Prokopyev / Yury Bogatov,28.733744,26.72279265,76.5,77.0,A
+2011-07-12,M,Jefferson Bellaguarda / Patrick Heuscher,Phil Dalhausser / Todd Rogers,34.6899384,34.61875425,76.0,77.5,A
+2015-06-02,M,Adrian Carambula / Alex Ranghieri,Alexandr Dyachenko / Alexey Sidorenko,27.583846700000002,33.1868583,75.0,77.5,A
+2018-05-10,W,Megan McNamara / Nicole McNamara,Pronsuda Kritsana / Yodsaphat Pakham,20.7720739,19.9014374,69.0,72.5,A
+2015-09-22,M,Martin Ermacora / Moritz Pristauz-Telsnigg,Michael Watson / Sam O'Dea,20.4736482,25.7303217,77.5,75.5,A
+2009-08-14,W,Keao Burdine / Nancy Reynolds,Stacy Brannon / Whitney Pavlik,32.6680356,27.0622861,71.0,73.5,A
+2004-05-26,M,Franco Neto / Tande Ramos,Patrick Heuscher / Stefan Kobel,35.8617385,28.8528405,77.0,75.5,B
+2006-08-10,W,Barbra Fontana / Carrie Dodd,Jenny Pavley / Sarah Straton,36.57357975,32.995208749999996,69.0,71.0,A
+2009-08-10,W,Alice Rohkamper / Heike Jensen,Marloes Wesselink / Merel Mooren,22.85831625,24.6036961,71.0,71.0,B
+2004-06-11,W,Brooke Niles / Courtney Guerra,Katie Jameson / Tracy Jones,23.2073922,24.8514716,69.5,66.0,A
+2019-06-20,W,Crissy Jones / Susannah Muno,Janelle Allen / Kerri Schuh,22.8692676,34.66666665,72.0,71.0,B
+2004-06-23,M,Jonas Reckermann / Markus Dieckmann,Patrick Heuscher / Stefan Kobel,26.76933605,28.929500349999998,76.5,75.5,A
+2003-10-14,M,Joao Brenha / Miguel Maia,Ramon Hernandez / Raul Papaleo,32.95824775,31.6262834,73.5,74.0,A
+2003-06-06,M,Aaron Boss / Alika Williams,Lee LeGrande / Matt Lyles,30.2067077,32.9486653,74.5,76.0,A
+2007-04-19,W,Carrie Dodd / Tatiana Minello,Diane Pascua / Heidi Ilustre,35.0253251,29.7905544,69.0,70.0,A
+2022-03-23,M,Lukas Pfretzschner / Robin Sowa,Paolo Nicolai / Samuele Cottafava,22.5229295,28.50787135,78.0,78.0,B
+2006-07-06,W,Angela Lewis / Priscilla Piantadosi-Lima,Holly McPeak / Nicole Branagh,27.4414784,32.2847365,71.0,70.5,B
+2004-06-16,M,Emanuel Rego / Ricardo Santos,Patrick Heuscher / Stefan Kobel,30.3066393,28.9103354,77.0,75.5,B
+2006-08-31,M,Ben Koski / Jeff Minc,Jason Wight / Reuben Danley,26.271047250000002,27.6892539,75.5,74.5,B
+2005-05-20,M,Dax Holdren / Jeff Nygaard,Matt Prosser / Ran Kumgisky,32.7501711,28.59958935,77.5,76.0,A
+2009-06-26,M,Ahren Cadieux / Martin Reader,Mischa Urbatzka / Sebastian Dollinger,29.686516049999998,25.68514715,77.5,78.0,B
+2007-04-19,W,Angela Lewis / Priscilla Piantadosi-Lima,Holly McPeak / Logan Tom,28.2272416,31.913757699999998,71.0,70.0,A
+2004-09-20,W,Alexandra Fonseca / Monica Rodrigues,Mika Teru Saiki / Shinako Tanaka,35.478439449999996,31.0691307,69.0,68.0,A
+2007-05-02,W,Daniela Gioria / Lucilla Perrotta,Jarunee Sannok / Usa Tenpaksee,29.8699521,24.469541399999997,70.5,68.5,A
+2017-06-26,W,Jurja Vlasic / Maja Rosko,Kristina May / Taylor Pischke,24.5653662,27.286789849999998,69.5,73.0,B
+2003-07-31,M,Dain Blanton / Jeff Nygaard,Patrick Heuscher / Stefan Kobel,31.3305955,28.0314853,77.5,75.5,B
+2010-06-25,M,Bryan Stewart / Daniel Dalanhese,Kristopher Fraser / Shane Donohue,26.9377139,25.86173855,75.5,75.0,A
+2019-06-28,W,Barbara Seixas / Fernanda Alves,Nina Betschart / Tanja Huberli,32.9486653,25.26899385,72.0,71.5,B
+2019-07-24,M,Jiaxin Wu / Likejiang Ha,Julian Horl / Tobias Winter,26.568103999999998,26.5776865,79.0,76.0,A
+2016-07-05,M,Aleksandrs Samoilovs / Janis Smedins,Evandro Goncalves / Pedro Solberg,30.08898015,28.12183435,76.0,79.5,B
+2005-06-14,W,Marrit Leenstra / Sanne Keizer,Vasiliki Arvaniti / Vasso Karadassiou,26.00273785,26.3394935,70.5,72.0,B
+2016-07-05,W,Caitlin Ledoux / Irene Pollock,Kendra VanZwieten / Kim DiCello,26.86105405,31.582477750000002,73.5,69.0,B
+2013-08-06,M,Christian Garcia / Francisco Alfredo Marco,Phil Dalhausser / Sean Rosenthal,26.80082135,33.32922655,73.0,78.5,B
+2002-06-12,M,Francisco Alvarez / Juan Rossell,Sean Scott / Todd Rogers,32.8104038,28.82546205,73.0,75.5,A
+2008-06-05,M,Clint Coe / Duncan Budinger,Danko Iordanov / Shigetomo Sakugawa,25.0253251,29.6317591,77.5,73.5,A
+2014-12-09,M,Daniel Dearing / Garrett May,Martins Dauburs / Toms Smedins,23.7782341,27.61943875,76.5,75.0,B
+2010-07-20,M,Jefferson Bellaguarda / Martin Laciga,Sebastian Dollinger / Stefan Windscheif,34.666666649999996,24.5242984,76.5,77.5,A
+2014-07-09,M,Jakub Szalankiewicz / Michal Kadziola,Matteo Ingrosso / Paolo Ingrosso,25.1485284,26.403833,75.5,75.0,A
+2013-10-29,W,Khanittha Hongpak / Rumpaipruet Numwong,Yuan Yue / Yuanyuan Ma,19.407255300000003,24.8090349,68.5,71.0,B
+2016-05-24,M,Evandro Goncalves / Pedro Solberg,Georgios Kotsilianos / Nikos Zoupanis,28.00684465,30.314852849999998,79.5,79.0,A
+2006-06-09,M,Casey Jennings / Matt Fuerbringer,Jeff Nygaard / John Hyden,31.637234799999998,33.75906915,77.5,78.5,A
+2022-07-21,M,Andy Benesh / Miles Evans,Djordje Klasnic / Lazar Kolaric,30.02053385,27.4346338,78.5,76.0,A
+2008-06-20,M,Braidy Halverson / Dane Jensen,Canyon Ceman / Casey Patterson,24.81587955,32.0821355,77.0,77.5,B
+2013-07-02,M,Jonas Weingart / Philip Gabathuler,Markus Bockermann / Mischa Urbatzka,28.988364150000002,28.862423,75.5,76.5,B
+2009-08-24,W,Ingrid Torlen / Nila Ann Hakedal,Maria Antonelli / Talita Antunes,30.14647505,26.240930849999998,69.5,70.0,B
+2009-04-16,W,Michelle Williams / Nancy Reynolds,Stacy Brannon / Whitney Pavlik,33.11841205,26.733744,71.0,73.5,A
+2002-06-19,M,Roger Cuennet / Samuel Straumann,Roland Koch / Sascha Messmer,30.46406575,26.6160164,75.0,73.0,A
+2002-06-12,M,Conrad Leinemann / Jody Holden,Jorre Kjemperud / Vegard Hoidalen,32.50239565,32.43531825,76.0,75.0,B
+2015-08-25,W,Emily Day / Jennifer Kessy,Juliana Felisberta / Maria Antonelli,33.055441450000004,31.7946612,72.5,69.5,A
+2013-09-06,W,Brittany Hochevar / Lauren Fendrick,Kristen Batt-Rohr / Raquel Ferreira,31.87405885,31.7316906,73.5,72.0,A
+2014-06-25,M,Anders Mol / Mathias Berntsen,Nick Lucena / Ryan Doherty,17.682409300000003,32.574948649999996,73.0,79.0,B
+2001-08-01,M,Antonio Cotrino / Javier Bosma,Paul Schroffenegger / Thomas Schroffenegger,28.208076650000002,29.0677618,77.0,75.0,A
+2007-05-02,W,Ana Paula Henkel / Leila Barros,Clara Lozano / Nadia Campisi,35.40041065,25.53319645,71.0,68.5,A
+2016-04-27,W,Anni Schumacher / Lisa Arnholdt,Juliana Felisberta / Taiana Lima,23.7508556,32.34223135,70.5,69.5,B
+2005-07-13,M,Jonas Reckermann / Markus Dieckmann,Jorre Kjemperud / Tarjei Skarlund,27.82340865,31.7741273,76.5,74.5,A
+2007-05-18,W,Allie Griffin / Regan Hood,Iwona Lodzik / Suzana Manole,23.31279945,27.8932238,73.0,73.0,B
+2015-07-06,W,Anastasia Barsuk / Daria Rudykh,Diana Zolnercikova / Martina Jakubsova,23.0253251,26.34770705,71.5,72.0,A
+2008-06-05,W,Erin Byrd / Stephanie Chapek,Jenny Kropp / Nancy Reynolds,28.2436687,33.2498289,73.5,71.5,B
+2006-05-18,W,Christine Pack / Kamila Pavlaskova,Jennifer Janszen / Lauren Mills,39.148528400000004,26.07802875,69.5,71.5,B
+2018-09-30,W,Betsi Flint / Emily Day,Ekaterina Birlova / Evgeniya Ukolova,28.6365503,30.2546201,71.5,71.5,B
+2004-04-23,W,Elaine Youngs / Holly McPeak,Liz Pagano / Sharman Mitchell,34.56399725,31.704312100000003,69.5,70.5,A
+2008-04-17,W,Ashley Ivy Swift / Heather Lowe,Carrie Dodd / Tatiana Minello,30.23956195,36.0219028,71.5,69.0,A
+2004-07-28,M,Dain Blanton / Jeff Nygaard,Francisco Alvarez / Juan Rossell,32.324435300000005,34.937713900000006,77.5,73.0,A
+2013-07-24,M,Christian Garcia / Francisco Alfredo Marco,Nicolas Zanotta / Renzo Cairus,26.7652293,27.86173855,73.0,75.5,A
+2017-06-26,W,Barbora Hermannova / Marketa Slukova,Melissa Humana-Paredes / Sarah Pavan,27.81382615,27.78507875,71.0,73.0,B
+2017-05-17,M,Andre Loyola / Evandro Goncalves,Christian Sorum / Mathias Berntsen,24.78850105,21.36618755,81.0,74.5,A
+2003-07-31,M,Jefferson Bellaguarda / Juca Dultra,Kevin Ces / Yannick Salvetti,26.5831622,23.00616015,76.0,77.0,A
+2013-06-18,W,Giada Benazzi / Viktoria Orsi Toth,Ilka Semmler / Katrin Holtwick,21.79603015,28.4818617,72.0,70.5,B
+2017-05-18,W,Allie Wheeler / Nicolette Martin,Maria Clara Salgado / Priscilla Piantadosi-Lima,21.95071865,35.72347705,70.0,70.0,A
+2011-11-01,W,April Ross / Jennifer Kessy,Kristyna Kolocova / Marketa Slukova,31.80971935,23.463381249999998,72.5,69.0,A
+2002-06-14,W,Jennifer Holdren / Stephanie Cox,Nancy Reynolds / Rachel Scott,31.713894599999996,29.275838450000002,67.5,68.5,B
+2012-07-11,W,Ilka Semmler / Katrin Holtwick,Natalie Cook / Tamsin Hinchley,27.5455168,34.9062286,70.5,73.5,A
+2006-06-20,W,Imara Esteves Ribalta / Milagros Crespo,Renata Ribeiro / Talita Antunes,27.7768652,24.171115649999997,69.0,70.0,B
+2015-10-21,M,Christian Garcia / Francisco Alfredo Marco,Derek Olson / Marty Lorenz,30.0095825,29.188227249999997,73.0,75.0,A
+2007-06-19,W,Deborah Giaoui / Eva Hamzaoui,Liesbet Van Breedam / Liesbeth Mouha,24.733744,26.418891199999997,71.0,72.5,B
+2014-07-08,W,Heather Bansley / Sarah Pavan,Kristyna Kolocova / Marketa Slukova,27.355236150000003,26.14647505,72.0,69.0,B
+2017-07-03,W,Amaranta Navarro / Elsa Baquerizo,Melissa Humana-Paredes / Sarah Pavan,31.9589322,27.80424365,72.5,73.0,B
+2002-06-12,M,Bartosz Bachorski / Janusz Bulkowski,Juan Razo / Juan Rodriguez Ibarra,33.3141684,32.9746749,76.0,74.5,B
+2007-08-29,M,Alexandr Dyachenko / Oleksiy Kulinich,Bjorn Maaseide / Iver Horrem,27.063655,35.066392900000004,76.5,76.5,A
+2003-09-18,W,Annie Martin / Guylaine Dumont,Renata Ribeiro / Shaylyn Bede,28.98562625,21.7727584,68.0,67.0,B
+2006-07-06,M,Jake Gibb / Sean Rosenthal,Scott Davenport / Scott Lane,28.228610500000002,33.59206025,77.5,75.0,A
+2019-08-01,W,Karolina Rehackova / Sara Olivova,Sayaka Mizoe / Suzuka Hashimoto,29.08555785,27.4839151,70.0,70.5,B
+2018-10-16,M,Aghamohammad Salagh / Parviz Farrokhi,Dmitriy Yakovlev / Sergey Bogatu,44.12183435,28.19712525,75.5,77.0,B
+2006-07-20,M,Adam Roberts / Jeff Carlucci,Nick Lucena / Sean Rooney,30.9801506,25.253935650000003,75.5,77.0,B
+2008-06-24,M,Christoph Dieckmann / Julius Brink,Jonas Reckermann / Mischa Urbatzka,29.21560575,27.16084875,75.5,77.0,B
+2006-06-29,M,Kevin Wong / Larry Witt,Nick Lucena / Sean Rooney,30.37782345,25.19644075,78.5,77.0,B
+2006-05-18,M,Jake Gibb / Sean Rosenthal,Ty Tramblie / Tyler Hildebrand,28.09445585,23.8932238,77.5,74.0,A
+2016-08-23,W,Anni Schumacher / Kim Behrens,Britta Buthe / Karla Borger,25.99589325,27.9986311,70.5,72.0,B
+2018-07-25,M,Keisuke Shimizu / Yoshiumi Hasegawa,Kusti Nolvak / Mart Tiisaar,32.40246405,26.7173169,75.0,78.0,B
+2016-06-02,M,Billy Kolinske / Ty Loomis,Curt Toppel / Mark Burik,33.4565366,33.2539357,76.5,78.0,B
+2006-06-29,M,Chris Seiffert / John Moran,Mat Ogin / Todd Strassberger,29.33470225,23.23613965,76.0,76.5,A
+2007-06-14,W,Holly McPeak / Logan Tom,Lauren Fendrick / Paula Roca,32.06707735,30.5722108,70.0,73.0,A
+2001-08-15,W,Dalixia Fernandez Grasset / Tamara Larrea Peraza,Hilda Gaxiola / Mayra Garcia,25.7193703,29.1676934,70.5,69.5,A
+2006-09-14,M,Dax Holdren / Sean Scott,Jake Gibb / Sean Rosenthal,33.6180698,28.4202601,76.0,77.5,A
+2006-08-31,W,Diane Pascua / Heidi Ilustre,Pat Keller / Tanya Fuamatu-Anderson,29.1581109,35.15811085,70.0,68.5,A
+2004-07-28,W,Julia Willand / Leigh-Ann Naidoo,Karin Lundqvist / Sara Uddstahl,30.17659135,25.504449049999998,71.0,71.0,A
+2013-07-09,W,Barbara Seixas / Liliane Maestrini,Chen Xue / Xi Zhang,25.81793295,26.30390145,71.5,73.5,B
+2009-08-06,W,Bonnie Levin / Kayce Matthess,Catie Mintz / Leilani Kamahoahoa,35.07871325,31.147159449999997,69.0,69.0,B
+2019-06-28,M,Julian Azaad / Nicolas Capogrosso,Nick Lucena / Phil Dalhausser,26.476385999999998,39.592060200000006,79.5,77.0,B
+2005-06-28,W,Adriana Behar / Shelda Bede,Lea Schwer / Simone Kuhn,34.4271047,24.13689255,68.0,72.0,A
+2019-08-01,M,Danijel Pokersnik / Jure Bedrac,Florian Ertl / Johannes Kratz,37.08555785,23.964407950000002,76.0,75.5,B
+2020-07-30,M,Erlend Henriksveen / Vegard Lokken,Mathias Seiser / Moritz Kindl,25.57015745,23.730321699999998,73.5,73.5,B
+2005-08-11,M,Geoff Cryst / Ty Tramblie,Lucas Black / Matt Heagy,27.76454485,24.4859685,74.5,75.5,B
+2021-11-10,W,Emilie Olimstad / Sunniva Helland-Hansen,Fernanda Alves / Maria Antonelli,22.631074599999998,37.03764545,69.5,71.5,B
+2007-07-19,M,Alex Lynch / Matt Schroeder,Jason Wight / Kevin Dake,28.574948650000003,29.831622199999998,73.5,74.0,B
+2014-06-11,W,Louise Bawden / Taliqua Clancy,Taiana Lima / Talita Antunes,27.401779599999998,30.9117043,72.0,70.0,B
+2019-05-29,M,Oleg Stoyanovskiy / Viacheslav Krasilnikov,Pedro Solberg / Vitor Felipe,25.37713895,30.6954141,79.0,76.0,A
+2018-06-20,M,Esteban Grimalt / Marco Grimalt,Igor Velichko / Oleg Stoyanovskiy,28.1930185,22.3080082,76.0,77.5,B
+2008-07-21,W,Deborah Giaoui / Eva Hamzaoui,Jill Jasbar / Kerstin Pichler,25.8234086,27.1991786,71.0,70.0,A
+2008-06-30,W,Carolina Salgado / Maria Clara Salgado,Dalixia Fernandez Grasset / Tamara Larrea Peraza,23.02669405,32.5941136,69.5,70.5,A
+2004-09-21,M,Andrea Raffaelli / Fabio Galli,Jason Lochhead / Kirk Pitman,34.76933605,21.650924000000003,74.5,73.0,A
+2006-06-21,M,Alexey Sidorenko / Pavel Saulko,Hannes Wyder / Michael Bleiker,23.596167,26.43394935,78.5,77.0,B
+2013-04-24,W,April Ross / Jennifer Kessy,Joana Heidrich / Nadine Zumkehr,33.2881588,24.88706365,72.5,71.5,A
+2010-06-18,M,Alex Pepke / Cody Coughlin,Colin Kaslow / Tim Wooliver,22.33675565,34.7871321,74.5,74.0,B
+2022-07-14,M,Artur Hajos / Bence Streli,Harry Jones / Niko Gleed,21.5646817,23.38809035,77.0,72.0,A
+2008-03-25,M,Franco Neto / Pedro Cunha,Jason Lochhead / Kirk Pitman,33.08008215,25.158110899999997,75.0,73.0,A
+2016-03-08,M,Alexander Brouwer / Robert Meeuwsen,Murat Giginoglu / Volkan Gogtepe,27.1540041,28.68035595,79.5,75.5,A
+2008-07-15,M,Alexander Horst / Florian Gosch,Jorre Kjemperud / Tarjei Skarlund,26.74058865,34.78028745,75.0,74.5,B
+2007-05-03,W,Barbra Fontana / Dianne DeNecochea,Michelle Williams / Suzanne Barnes,40.5544148,26.316221749999997,71.0,71.0,A
+2016-03-08,W,April Ross / Kerri Walsh Jennings,Kira Walkenhorst / Laura Ludwig,35.6399726,27.72621495,74.0,71.0,A
+2008-07-10,M,Dane Jensen / Evan Engle,Eyal Zimet / John Moran,25.3812457,32.03969885,76.0,75.5,B
+2007-05-10,M,Albert Hannemann / Ed Ratledge,Austin Rester / Jose Loiola,33.705681,31.11293635,77.5,77.5,A
+2010-06-25,M,Fred Souza / Pedro Brazao,Jesse Rambis / John Moran,34.34633815,29.2991102,78.0,74.5,A
+2007-04-13,M,Albert Hannemann / Ed Ratledge,Ryan Cronin / Tim Church,33.6317591,30.8501027,77.5,76.0,A
+2005-06-15,M,Gijs Ronnes / Jochem De Gruijter,Paul Laciga / Sascha Heyer,27.586584549999998,33.728952750000005,75.5,78.0,B
+2011-06-27,W,Janne Kongshavn / Ragnhild Aas,Shauna Mullin / Zara Dampney,27.4770705,25.9178645,70.5,70.0,B
+2007-06-13,M,Andrew Schacht / Joshua Slack,Jason Lochhead / Kirk Pitman,32.2737851,24.37508555,75.5,73.0,A
+2016-06-02,W,Betsi Flint / Kelley Larsen,Brittany Hochevar / Jennifer Fopma,23.942505099999998,34.8049281,72.0,73.5,A
+2015-06-02,M,Jonathan Erdmann / Kay Matysik,Sean Rosenthal / Stafford Slick,31.0882957,32.67898695,75.5,78.0,B
+2018-10-17,M,Adrian Gavira / Pablo Herrera,Bruno Oscar Schmidt / Pedro Solberg,33.691991800000004,32.294319,76.0,74.5,A
+2008-05-06,M,Bram Ronnes / Emiel Boersma,Guilherm Deulofeu / Yannick Salvetti,28.5817933,31.8548939,77.0,76.0,A
+2018-07-09,M,John Hyden / Theo Brunner,Nick Lucena / Phil Dalhausser,39.5318275,38.622861099999994,78.0,77.0,B
+2003-06-13,M,Dax Holdren / Eric Fonoimoana,Kevin Wong / Stein Metzger,32.392881599999996,30.658453100000003,75.0,77.0,B
+2007-10-31,W,Hella Jurich / Rieke Brink-Abeler,Kerri Walsh Jennings / Misty May-Treanor,27.3634497,29.7316906,70.5,72.0,B
+2008-08-01,W,Angela Bryan / Leilani Kamahoahoa,Barbra Fontana / Dianne DeNecochea,29.8863792,41.80287475,69.0,71.0,B
+2006-06-14,M,Mark Heese / Rich VanHuizen,Paul Laciga / Sascha Heyer,33.69062285,34.725530449999994,76.5,78.0,A
+2009-07-02,W,Capri Grotowski / Raquel Beson,Carol Welcher / Cayley Thurlby,31.8494182,26.5489391,69.5,71.5,A
+2009-03-27,M,Bryan Gibson / Keith Jones,Jon Mesko / Mike DiPierro,41.4565366,30.1423682,74.0,78.0,B
+2016-04-14,M,Adam Roberts / Marty Lorenz,Brad Keenan / Ty Tramblie,32.75701575,35.0773443,75.0,76.0,B
+2006-08-02,W,Marrit Leenstra / Sanne Keizer,Sarah Schmocker / Tanya Guerra Arias-Schmocker,27.13620805,22.3353867,70.5,70.0,A
+2007-05-30,W,Bibiana Candelas / Mayra Garcia,Dalixia Fernandez Grasset / Tamara Larrea Peraza,29.26351815,31.507186850000004,72.5,70.5,B
+2021-06-10,W,Dorina Klinger / Ronja Klinger,Gabi Brito / Norisbeth Agudo,22.52566735,28.29431895,71.5,66.5,B
+2003-07-02,M,Emanuel Rego / Ricardo Santos,Martin Laciga / Paul Laciga,29.348391499999998,30.5174538,77.0,76.5,A
+2010-05-03,M,Dmitriy Yakovlev / Oleksiy Kulinich,Josh Binstock / Matt Zbyszewski,26.1232033,29.0006845,75.5,76.5,B
+2003-06-04,M,Emanuel Rego / Ricardo Santos,Jonas Reckermann / Markus Dieckmann,29.2717317,25.71526355,77.0,76.5,A
+2006-06-07,M,Daniel Krug / Mischa Urbatzka,Jason Kruger / Rich VanHuizen,23.0992471,29.29637235,77.0,78.5,A
+2005-07-26,W,Antje Roder / Helke Claasen,Katrin Holtwick / Sara Niedrig,27.56741955,21.23613965,72.0,70.0,A
+2006-05-18,W,Kerri Eich / Sara Johnson,Kristin Ursillo / Noel Frohman,27.14168375,24.59000685,71.5,70.0,B
+2008-04-10,W,Ashley Ivy Swift / Heather Lowe,Carrie Dodd / Tatiana Minello,30.22039695,36.00273785,71.5,69.0,A
+2014-07-09,M,Christian Redmann / Maverick Hatch,Nick Lucena / Ryan Doherty,29.809719349999998,32.6132786,76.5,79.0,B
+2006-10-25,W,Geeske Banck / Susanne Lahme,Kathrine Maaseide / Susanne Glesnes,31.938398399999997,30.8747433,71.5,71.0,A
+2005-08-26,W,Dianne DeNecochea / Tammy Leibl,Mimi Amaral / Tatiana Minello,39.1252567,31.63175905,73.5,69.0,A
+2002-08-08,W,Anne McArthur / Barbara Khozam,Ashley Bowles / Liz Masakayan,34.0588638,29.89048595,68.5,70.0,A
+2009-07-14,M,Adrian Gavira / Pablo Herrera,"Jorge ""Gia"" Terceiro / Renato ""Geor"" Gomes",24.4325804,30.7323751,76.0,77.5,A
+2022-05-25,W,Anastasija Samoilova / Tina Graudina,Rebecca Cavalcanti / Talita Antunes,24.7775496,34.41204655,70.5,70.0,B
+2006-05-31,W,Alexandra Moiseeva / Natalya Uryadova,Man Zuo / Ying Zhang,26.25735795,23.379876799999998,72.0,71.5,B
+2015-06-26,M,Daan Spijkers / Tim Oude Elferink,Mirco Gerson / Philip Gabathuler,28.25462015,27.49623545,75.0,74.5,B
+2014-07-30,M,Aleksandrs Samoilovs / Janis Smedins,Alison Cerutti / Bruno Oscar Schmidt,28.1560575,28.228610500000002,76.0,76.5,B
+2003-08-07,M,Chip McCaw / Ian Clark,Dane Pearson / Ran Kumgisky,31.6495551,32.27789185,77.0,74.5,A
+2009-05-21,W,Cindie Boosin / Tealle Hunkus,Dana Fiume / Shayna Munson,25.441478449999998,29.2032854,69.0,73.0,A
+2007-05-18,W,Caitlin Ledoux / Jocelyn Neely,Laura Ratto / Lauren Mills,17.155373,26.81861735,73.0,67.0,B
+2014-09-18,W,Christal Engle / Sarah Day,Emily Stockman / Traci Weamer,27.082819999999998,26.929500349999998,72.0,72.0,A
+2019-02-21,W,Astrid Munkwitz / Doreen Kauschus,Tzu-Yi Pan / Ya-Hsuan Yu,29.85763175,23.8179329,71.5,67.0,B
+2005-07-08,M,Caleb Cook / Danny Cook,Kevin Dake / Ryan Cronin,23.2224504,30.12320325,76.5,75.5,B
