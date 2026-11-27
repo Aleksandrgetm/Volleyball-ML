@@ -58,3 +58,13 @@ nepareizo_prognozu_skaits = (y_test != prognozes).sum()
 print("Modeļa precizitāte:", f"{precizitate * 100:.2f}%")
 print("Pareizo prognožu skaits:", pareizo_prognozu_skaits)
 print("Nepareizo prognožu skaits:", nepareizo_prognozu_skaits)
+
+bazes_klase = y_train.mode()[0]
+bazes_prognozes = [bazes_klase] * len(y_test)
+bazes_precizitate = accuracy_score(y_test, bazes_prognozes)
+precizitates_starpiba = (precizitate - bazes_precizitate) * 100
+
+print("Visbiežākā apmācības izlases klase:", bazes_klase)
+print("Bāzes līnijas precizitāte:", f"{bazes_precizitate * 100:.2f}%")
+print("Modeļa precizitāte:", f"{precizitate * 100:.2f}%")
+print("Precizitātes starpība procentpunktos:", f"{precizitates_starpiba:.2f}")
