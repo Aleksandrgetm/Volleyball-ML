@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 dati = pd.read_csv("tirs.csv")
 dati["date"] = pd.to_datetime(dati["date"])
@@ -14,11 +15,23 @@ X = dati[[
 ]]
 y = dati["winner"]
 
-print("X izmērs:", X.shape)
-print("y izmērs:", y.shape)
-print("Pirmās piecas X rindas:")
-print(X.head())
-print("Pirmās piecas y vērtības:")
-print(y.head())
-print("Klases sadalījums:")
-print(y.value_counts().sort_index())
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, shuffle=False
+)
+
+apmacibas_datumi = dati.loc[X_train.index, "date"]
+testa_datumi = dati.loc[X_test.index, "date"]
+
+print("Apmācības izlašu spēļu skaits:", len(X_train))
+print("Testa izlašu spēļu skaits:", len(X_test))
+print("Apmācības izlases klašu sadalījums:")
+print(y_train.value_counts().sort_index())
+print("Testa izlases klašu sadalījums:")
+print(y_test.value_counts().sort_index())
+print("Apmācības izlašu datumu diapazons:", apmacibas_datumi.min().date(), "-", apmacibas_datumi.max().date())
+print("Testa izlašu datumu diapazons:", testa_datumi.min().date(), "-", testa_datumi.max().date())
+
+if apmacibas_datumi.max() == testa_datumi.min():
+    print("Pēdējais apmācības datums sakrīt ar pirmo testa datumu.")
+else:
+    print("Pēdējais apmācības datums nesakrīt ar pirmo testa datumu.")
