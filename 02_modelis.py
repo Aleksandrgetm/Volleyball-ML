@@ -75,3 +75,22 @@ print("Pazīmju svarīgums:")
 print(pazimju_svarigums)
 print("Divas svarīgākās pazīmes:")
 print(pazimju_svarigums.head(2))
+
+testa_dati = dati.loc[X_test.index].copy()
+testa_dati["predicted_winner"] = prognozes
+kludainas_prognozes = testa_dati[
+    testa_dati["predicted_winner"] != testa_dati["winner"]
+]
+pirma_kludaina_prognoze = kludainas_prognozes.iloc[0]
+
+print("Pirmais kļūdaini prognozētais mačs:")
+print("Mača datums:", pirma_kludaina_prognoze["date"].date())
+print("Spēlētāju dzimums:", {0: "M", 1: "W"}[pirma_kludaina_prognoze["gender"]])
+print("Komandas A spēlētāji:", pirma_kludaina_prognoze["team_a"])
+print("Komandas B spēlētāji:", pirma_kludaina_prognoze["team_b"])
+print("Komandas A vidējais vecums:", pirma_kludaina_prognoze["team_a_avg_age"])
+print("Komandas B vidējais vecums:", pirma_kludaina_prognoze["team_b_avg_age"])
+print("Komandas A vidējais augums:", pirma_kludaina_prognoze["team_a_avg_height"])
+print("Komandas B vidējais augums:", pirma_kludaina_prognoze["team_b_avg_height"])
+print("Faktiskais uzvarētājs:", pirma_kludaina_prognoze["winner"])
+print("Prognozētais uzvarētājs:", pirma_kludaina_prognoze["predicted_winner"])
