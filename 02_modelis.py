@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
 dati = pd.read_csv("tirs.csv")
@@ -49,3 +50,11 @@ print("Modelis veiksmīgi apmācīts.")
 print("Prognožu skaits:", len(prognozes))
 print("Pirmie desmit prognozētie uzvarētāji:")
 print(prognozes[:10])
+
+precizitate = accuracy_score(y_test, prognozes)
+pareizo_prognozu_skaits = (y_test == prognozes).sum()
+nepareizo_prognozu_skaits = (y_test != prognozes).sum()
+
+print("Modeļa precizitāte:", f"{precizitate * 100:.2f}%")
+print("Pareizo prognožu skaits:", pareizo_prognozu_skaits)
+print("Nepareizo prognožu skaits:", nepareizo_prognozu_skaits)
